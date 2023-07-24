@@ -10,7 +10,7 @@
 ### Bug Raporlama
 
 ### 1. BUG
-**Title :**   Anasayfa Search İnput’unda Text Düzenlenmesi Yapılamaması
+**Title :**   Anasayfa Search İnput’unda Text Düzenlenme Yapılamaması
 
 **Environment :**  
 
